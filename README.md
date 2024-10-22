@@ -1,6 +1,6 @@
 # Data Cleaning Project Using MySQL 
 
-This project focuses on cleaning a dataset with over 1000+ records using MySQL queries for analysis. The data cleaning process involves four key procedures: removing duplicates, standardizing data, handling null values, and dropping irrelevant columns, that are essential for ensuring high-quality datasets.
+This project focuses on cleaning a raw dataset with over 1000+ records using MySQL queries for analysis. The data cleaning process involves four key procedures: removing duplicates, standardizing data, handling null values, and dropping irrelevant columns, that are essential for ensuring high-quality datasets.
 
 ## Project Overview
 
