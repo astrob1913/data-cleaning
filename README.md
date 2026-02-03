@@ -28,4 +28,5 @@ Data cleaning is essential to ensure that the dataset is accurate, complete, and
 ### Technologies Used
 
 -MySQL Workbench: For executing SQL queries.
+
 -MS Excel: The dataset was imported/exported to and from Excel for data analysis.
